@@ -43,6 +43,6 @@ brew install gtime
 
 ## results
 ### overview
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://raw.githubusercontent.com/shikitari/tensorflow_cpu_vs_gpu/master/utils/overview.png)
 ### zoom in
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://raw.githubusercontent.com/shikitari/tensorflow_cpu_vs_gpu/master/utils/zoom_in.png)
