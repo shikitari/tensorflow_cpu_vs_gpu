@@ -20,6 +20,4 @@ with tf.Session() as sess:
     for i in range(0, NUM_OF_OPERATIONS):
         data = sess.run(converted_images)
 
-    print(sess.run(tf.shape(converted_images)))
-
     print(NUM_OF_OPERATIONS, end="")
